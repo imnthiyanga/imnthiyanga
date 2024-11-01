@@ -45,6 +45,25 @@ Explore more on my [GitHub Repositories](https://github.com/imnthiyanga) for add
 
 ---
 
+### 🔥 GitHub Stats
+
+<div align="center">
+
+  <!-- Current Streak Widget -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imnthiyanga&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF4500&ring=FFD700" alt="Current Streak"/>
+
+  <!-- GitHub Stats with Streak Information -->
+  ![GitHub Streak Stats](https://github-readme-stats.vercel.app/api?username=imnthiyanga&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25&include_all_commits=true&custom_title=Streak%20Stats)
+
+  <!-- Top Languages Widget -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imnthiyanga&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+
+
+
+
 ### 📫 Contact Me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ithiyanga@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iman-thiyanga)
