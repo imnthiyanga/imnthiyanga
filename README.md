@@ -41,7 +41,7 @@ I'm a passionate Full Stack Developer focused on creating efficient, scalable, a
 - **RFID Attendance Tracker**: ![RFID](https://img.shields.io/badge/-RFID-0082FC?style=flat-square&logo=rfid&logoColor=white)-based system to track student attendance.
 - **Cinnamon Paradise**: ![E-Commerce](https://img.shields.io/badge/-E--Commerce-F08080?style=flat-square&logo=shopify&logoColor=white) website for premium cinnamon products.
   
-Explore more on my [GitHub Repositories](https://github.com/yourusername) for additional projects!
+Explore more on my [GitHub Repositories](https://github.com/imnthiyanga) for additional projects!
 
 ---
 
