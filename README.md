@@ -32,19 +32,6 @@ I'm a passionate Full Stack Developer focused on creating efficient, scalable, a
 
 ---
 
-### 📂 Projects
-
-- **DataCanvas**: ![IoT](https://img.shields.io/badge/-IoT-00ADD8?style=flat-square&logo=iot&logoColor=white) data management platform for centralized data storage and visualization.
-- **Academic and Administration platform**: ![Database](https://img.shields.io/badge/Academic%20-Administration-blue) Platform to oversee academics, administrative services, and student registration for a government institute.
-- **Entrepreneurship Society official Website**: ![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-8A2BE2) Official website for the Entrepreneurship Society in collaboration with the Hypercube development team.
-- **AirSense**: ![Environment](https://img.shields.io/badge/-Environment-228B22?style=flat-square&logo=leaf&logoColor=white) Air quality monitoring system, which reached the finals at CodeSprint 8.
-- **RFID Attendance Tracker**: ![RFID](https://img.shields.io/badge/-RFID-0082FC?style=flat-square&logo=rfid&logoColor=white)-based system to track student attendance.
-- **Cinnamon Paradise**: ![E-Commerce](https://img.shields.io/badge/-E--Commerce-F08080?style=flat-square&logo=shopify&logoColor=white) website for premium cinnamon products.
-  
-Explore more on my [GitHub Repositories](https://github.com/imnthiyanga) for additional projects!
-
----
-
 ### 🔥 GitHub Stats
 
 <div align="center">
@@ -60,7 +47,20 @@ Explore more on my [GitHub Repositories](https://github.com/imnthiyanga) for add
 
 </div>
 
+---
 
+### 📂 Projects
+
+- **DataCanvas**: ![IoT](https://img.shields.io/badge/-IoT-00ADD8?style=flat-square&logo=iot&logoColor=white) data management platform for centralized data storage and visualization.
+- **Academic and Administration platform**: ![Database](https://img.shields.io/badge/Academic%20-Administration-blue) Platform to oversee academics, administrative services, and student registration for a government institute.
+- **Entrepreneurship Society official Website**: ![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-8A2BE2) Official website for the Entrepreneurship Society in collaboration with the Hypercube development team.
+- **AirSense**: ![Environment](https://img.shields.io/badge/-Environment-228B22?style=flat-square&logo=leaf&logoColor=white) Air quality monitoring system, which reached the finals at CodeSprint 8.
+- **RFID Attendance Tracker**: ![RFID](https://img.shields.io/badge/-RFID-0082FC?style=flat-square&logo=rfid&logoColor=white)-based system to track student attendance.
+- **Cinnamon Paradise**: ![E-Commerce](https://img.shields.io/badge/-E--Commerce-F08080?style=flat-square&logo=shopify&logoColor=white) website for premium cinnamon products.
+  
+Explore more on my [GitHub Repositories](https://github.com/imnthiyanga) for additional projects!
+
+---
 
 
 
