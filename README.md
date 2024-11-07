@@ -37,13 +37,13 @@ I'm a passionate Full Stack Developer focused on creating efficient, scalable, a
 <div align="center">
 
   <!-- Current Streak Widget -->
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imnthiyanga&theme=radical)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imnthiyanga&theme=dark)
 
   <!-- GitHub Stats with Streak Information -->
-  ![GitHub Streak Stats](https://github-readme-stats.vercel.app/api?username=imnthiyanga&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25&include_all_commits=true&custom_title=Streak%20Stats)
+  ![GitHub Streak Stats](https://github-readme-stats.vercel.app/api?username=imnthiyanga&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25&include_all_commits=true&custom_title=Streak%20Stats)
 
   <!-- Top Languages Widget -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imnthiyanga&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imnthiyanga&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
