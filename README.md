@@ -37,7 +37,7 @@ I'm a passionate Full Stack Developer focused on creating efficient, scalable, a
 <div align="center">
 
   <!-- Current Streak Widget -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imnthiyanga&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF4500&ring=FFD700" alt="Current Streak"/>
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imnthiyanga&theme=radical)
 
   <!-- GitHub Stats with Streak Information -->
   ![GitHub Streak Stats](https://github-readme-stats.vercel.app/api?username=imnthiyanga&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25&include_all_commits=true&custom_title=Streak%20Stats)
