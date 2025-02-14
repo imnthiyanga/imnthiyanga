@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Iman Thiyanga
 
 ### 🧑‍💻 About Me
-I'm a passionate Full Stack Developer focused on creating efficient, scalable, and impactful solutions. Currently pursuing a BSc in Information Technology, I bring hands-on experience in a wide range of web and application technologies.
+I'm a passionate Full Stack Developer focused on creating efficient, scalable, and impactful solutions. Currently pursuing a BSc(Hons) in Information Technology, I bring hands-on experience in a wide range of web and application technologies.
 
 ---
 
