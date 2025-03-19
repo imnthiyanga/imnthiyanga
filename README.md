@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Iman Thiyanga
 
 ### 🧑‍💻 About Me
-I'm a passionate Full Stack Developer focused on creating efficient, scalable, and impactful solutions. Currently pursuing a BSc in Information Technology, I bring hands-on experience in a wide range of web and application technologies.
+I'm a passionate Full Stack Developer focused on creating efficient, scalable, and impactful solutions. Currently pursuing a BSc(Hons) in Information Technology, I bring hands-on experience in a wide range of web and application technologies.
 
 ---
 
@@ -32,6 +32,23 @@ I'm a passionate Full Stack Developer focused on creating efficient, scalable, a
 
 ---
 
+### 🔥 GitHub Stats
+
+<div align="center">
+
+  <!-- Current Streak Widget -->
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imnthiyanga&theme=dark)
+
+  <!-- GitHub Stats with Streak Information -->
+  ![GitHub Streak Stats](https://github-readme-stats.vercel.app/api?username=imnthiyanga&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25&include_all_commits=true&custom_title=Streak%20Stats)
+
+  <!-- Top Languages Widget -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imnthiyanga&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
 ### 📂 Projects
 
 - **DataCanvas**: ![IoT](https://img.shields.io/badge/-IoT-00ADD8?style=flat-square&logo=iot&logoColor=white) data management platform for centralized data storage and visualization.
@@ -41,9 +58,11 @@ I'm a passionate Full Stack Developer focused on creating efficient, scalable, a
 - **RFID Attendance Tracker**: ![RFID](https://img.shields.io/badge/-RFID-0082FC?style=flat-square&logo=rfid&logoColor=white)-based system to track student attendance.
 - **Cinnamon Paradise**: ![E-Commerce](https://img.shields.io/badge/-E--Commerce-F08080?style=flat-square&logo=shopify&logoColor=white) website for premium cinnamon products.
   
-Explore more on my [GitHub Repositories](https://github.com/yourusername) for additional projects!
+Explore more on my [GitHub Repositories](https://github.com/imnthiyanga) for additional projects!
 
 ---
+
+
 
 ### 📫 Contact Me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ithiyanga@gmail.com)
